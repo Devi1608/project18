@@ -7,11 +7,11 @@ This is a web based application developed for lifesytle products.
 
 **Project Link** - https://polite-mud-067288c00.3.azurestaticapps.net/
 
+**Demo Video** - https://youtu.be/CYWqOzvDKWI
+
 ## Azure technologies used for project
 - Static web apps
 - Health bot
-
-**Demo Video** -  
 
 ## Features and Functionalities 😃
 
